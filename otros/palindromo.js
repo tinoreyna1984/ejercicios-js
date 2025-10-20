@@ -1,3 +1,4 @@
+
 const palabra = 'reconocer';
 
 const palindromo = (palabra) => {
